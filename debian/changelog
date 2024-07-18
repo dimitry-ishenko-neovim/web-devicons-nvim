@@ -1,4 +1,17 @@
-web-devicons-nvim (v0.100-1) unstable; urgency=medium
+web-devicons-nvim (2024.07.18-c0cfc1738-1) unstable; urgency=medium
+
+  * fix: update .babelrc icon (#472)
+  * feat: add mojo icon and experimental mojo emoji extension (#470)
+  * feat: add .justfile (#468)
+  * feat: add .nvmrc icon (#469)
+  * fix(#465): set_icon broken (#466)
+  * docs: clarify setup overrides
+  * doc: add note to plugin authors to check before calling setup
+  * doc: add known issue and workaround: My setup Overrides Are Not Applied
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 18 Jul 2024 18:53:03 -0400
+
+web-devicons-nvim (0.100-1) unstable; urgency=medium
 
   * Initial import.
 
