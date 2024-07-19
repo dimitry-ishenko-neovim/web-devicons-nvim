@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/nvim-tree/nvim-web-devicons
 Upstream-Name: nvim-web-devicons
-Upstream-Contact: Luuk van Baal <luukvbaal@gmail.com>
+Upstream-Contact: Alexander Courtis <alex@courtis.org>
 
 Files: *
 Copyright: 2020-2024 The nvim-web-devicons authors
