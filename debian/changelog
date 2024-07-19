@@ -1,3 +1,9 @@
+web-devicons-nvim (2024.07.18-c0cfc1738-2) unstable; urgency=medium
+
+  * Fix upstream contact
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 18 Jul 2024 20:47:16 -0400
+
 web-devicons-nvim (2024.07.18-c0cfc1738-1) unstable; urgency=medium
 
   * fix: update .babelrc icon (#472)
