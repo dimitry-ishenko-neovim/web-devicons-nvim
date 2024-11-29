@@ -1,3 +1,73 @@
+web-devicons-nvim (2024.11.24-edbe0a65c-1) unstable; urgency=medium
+
+  [ nerdtype ]
+  * feat: add adb ads gpr (#514)
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#512)
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#511)
+
+  [ Alexander Courtis ]
+  * fix(#505): add missing 'R' extension (#506)
+  * fix(#502): explicit case insensitive matching of filenames (#503)
+
+  [ Ulices ]
+  * feat: add ebuild file extension (#501)
+
+  [ pointless-existence ]
+  * feat: add hyprpaper icons (#500)
+
+  [ Alexander Courtis ]
+  * fix(#498): set_icons failed when called before setup (#499)
+
+  [ Melker Ulander ]
+  * feat: add http (#497)
+
+  [ William Hou ]
+  * feat: add variant="light|dark" option to override &background (#496)
+
+  [ Turiiya ]
+  * feat: add .prettierrc.{cjs,js,mjs} (#495)
+
+  [ Ulices ]
+  * feat: add cow, code_of_conduct, license.md, security; move
+    {build,settings}.gradle, build.zig.zon (#490)
+
+  [ Sean Boult ]
+  * feat: add vercel (#488)
+
+  [ Douglas Massolari ]
+  * fix(gleam): move from icons_by_filename to icons_by_file_extension
+    (#485)
+
+  [ Tortus Exe ]
+  * feat: add apl bqn (#484)
+
+  [ GR3YH4TT3R93 ]
+  * feat: add commitlint.config.*, eslint.config.*, i18n.config.*,
+    ionic.config.json, .nuxtrc, nuxt.config.*, .prettierrc.*,
+    .prettierignore, prettier.config.* (#475)
+
+  [ Dillon Mulroy ]
+  * feat: add gleam (#482)
+
+  [ Ulices ]
+  * feat: add git-blame-ignore-revs, robots.txt, fix pyw icon, update
+    mailmap colour (#479)
+
+  [ xfzv ]
+  * feat: add wv wvc (#478)
+
+  [ Vladimir Levin ]
+  * chore(#288): feat: add .go.mod, .go.sum, .go.work (#477)
+
+  [ GR3YH4TT3R93 ]
+  * feat: add gradle file extension (#476)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 29 Nov 2024 10:50:02 -0500
+
 web-devicons-nvim (2024.07.18-c0cfc1738-2) unstable; urgency=medium
 
   * Fix upstream contact
