@@ -1,3 +1,86 @@
+web-devicons-nvim (2025.02.11-1) unstable; urgency=medium
+
+  [ José Lopes ]
+  * fix: Add missing filetype icon mapping for Typst. (#561)
+
+  [ ALVAROPING1 ]
+  * fix: add missing filetype icon mapping for Norg (#559)
+
+  [ Alexander Courtis ]
+  * chore: replace deprecated neovim API (#558)
+  * chore: correct type for feature request (#557)
+  * docs(#457): add issue templates, notes on adding new icons (#551)
+
+  [ gegoune ]
+  * refactor: split tables into individual files (#550)
+
+  [ Alexander Courtis ]
+  * chore: replace deprecated neovim API (#553)
+
+  [ gegoune ]
+  * style: normalised and formatted (single icon per line) icon tables,
+    light icons completely generated (#543)
+
+  [ Ulices ]
+  * fix: cucumber's `.feature` extension (#547)
+
+  [ Zuruh ]
+  * feat: Add Cucumber .feature file icon (#546)
+
+  [ Ulices ]
+  * fix: add missing filetypes (#531)
+
+  [ hankertrix ]
+  * feat: add more ogg formats (#538)
+
+  [ Gustav Eikaas ]
+  * feat: add msbuild configuration icons (#537)
+  * feat: add slnx icon (#536)
+
+  [ ALVAROPING1 ]
+  * feat: add icon for Norg
+
+  [ sh!zeeg ]
+  * feat: add icons for Assembly files (*.S and *.asm)
+
+  [ Ulices ]
+  * feat: add icons for AUTHORS{,.txt} and index.theme files (#527)
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#528)
+
+  [ Alexander Courtis ]
+  * chore: pre-commit-autoupdate.yml actions/checkout@v3->4,
+    actions/setup-python@v4.5.0->5, peter-evans/create-pull-request@v4-
+    >7
+  * fix(#502): always use lowercase icons by filename (#526)
+
+  [ SanthoshMani1 ]
+  * fix: update Gemfile and valgrant files incorrect definitions
+
+  [ Alexander Courtis ]
+  * chore: convert all remaining unicode to nerd font (#523)
+
+  [ sh!zeeg ]
+  * feat: add Odin language icon (#521)
+
+  [ Ulices ]
+  * fix: update `vercel.json` glyph from Unicode to Nerd Fonts (#522)
+
+  [ Charles Dong ]
+  * fix: update D lang color (#520)
+
+  [ Ulices ]
+  * feat: add new icons from nerd fonts v3.3.0 (#518)
+
+  [ Alexander Courtis ]
+  * docs(#516): README: full description (#517)
+
+  [ SALVADOR, 1 M. LIGAYAO ]
+  * feat: add bun.lockb (#515)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 28 Feb 2025 19:22:29 -0500
+
 web-devicons-nvim (2024.11.24-edbe0a65c-1) unstable; urgency=medium
 
   [ nerdtype ]
