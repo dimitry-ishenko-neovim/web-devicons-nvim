@@ -1,3 +1,38 @@
+web-devicons-nvim (2025.05.01-1) unstable; urgency=medium
+
+  [ alcpereira ]
+  * feat: add storybook icons (#584)
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#581)
+
+  [ nyx ]
+  * feat: add hyprlandd.conf (#582)
+
+  [ Alexander Courtis ]
+  * chore: add more details to bug report: before reporting (#580)
+
+  [ David Sáenz ]
+  * feat: add ada icon, use c colours for ada icons (#577)
+  * fix(#572, #575): ensure icon overrides apply after refresh (#576)
+
+  [ Alexander Courtis ]
+  * Revert "fix: ensure icon overrides apply after refresh (#573)"
+
+  [ David Sáenz ]
+  * fix: ensure icon overrides apply after refresh (#573)
+
+  [ Acaibrid ]
+  * feat: add .dockerignore icon (#570)
+
+  [ Eli Front ]
+  * feat: add wrangler file icons (#568)
+
+  [ Sefu Bey ]
+  * feat: add bun.lock icon (#563)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sun, 04 May 2025 14:23:00 -0400
+
 web-devicons-nvim (2025.02.11-1) unstable; urgency=medium
 
   [ José Lopes ]
