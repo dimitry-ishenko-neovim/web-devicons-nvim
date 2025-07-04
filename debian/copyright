@@ -4,9 +4,9 @@ Upstream-Name: nvim-web-devicons
 Upstream-Contact: Alexander Courtis <alex@courtis.org>
 
 Files: *
-Copyright: 2020-2024 The nvim-web-devicons authors
-License: MIT
+Copyright: 2023, nvim-tree
+License: Expat
 
 Files: debian/*
-Copyright: 2024 Dimitry Ishenko <dimitry.ishenko@gmail.com>
-License: GPL-3.0+
+Copyright: 2024-2025, Dimitry Ishenko <dimitry.ishenko@gmail.com>
+License: GPL-2+
