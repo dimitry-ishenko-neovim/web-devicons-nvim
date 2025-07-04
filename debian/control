@@ -3,9 +3,9 @@ Section: editors
 Priority: optional
 Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
 Build-Depends:
- debhelper-compat (= 12),
- dh-vim-addon
-Standards-Version: 4.6.0
+ debhelper-compat (= 13),
+ dh-vim-addon,
+Standards-Version: 4.6.2
 Homepage: https://github.com/nvim-tree/nvim-web-devicons
 Vcs-Browser: https://github.com/dimitry-ishenko-vim/web-devicons-nvim
 Vcs-Git: https://github.com/dimitry-ishenko-vim/web-devicons-nvim.git
@@ -13,5 +13,7 @@ Rules-Requires-Root: no
 
 Package: web-devicons-nvim
 Architecture: all
-Depends: ${misc:Depends}, neovim (>= 0.7)
-Description: Icons for neovim plugins
+Depends:
+ ${misc:Depends},
+ neovim (>= 0.7),
+Description: Nerd Fonts icons for use by neovim plugins
