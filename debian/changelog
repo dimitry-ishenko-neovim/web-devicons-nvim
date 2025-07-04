@@ -1,3 +1,32 @@
+web-devicons-nvim (2025.06.20-1) unstable; urgency=medium
+
+  [ Dimitry Ishenko ]
+  * d/control: compat level 13
+  * d/copyright: simplify
+  * Merge tag 'v2025.06.20'
+
+  [ Maria José Solano ]
+  * feat: add icon for rasi (#590)
+
+  [ Alexander Courtis ]
+  * fix: css icon uses Rebecca Purple #663399 (#589)
+  * doc: advise users to use latest nerd font
+  * doc: advise users to use latest nerd font
+
+  [ hankertrix ]
+  * feat: add svgz and tmpl icons (#587)
+
+  [ Alexander Courtis ]
+  * chore: resolve deprecated api (#574)
+
+  [ Sergey Kochetkov ]
+  * feat: official css icon (#585)
+
+  [ Emmanuel Pilande ]
+  * fix: update go icon color to match brand (#586)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 03 Jul 2025 22:09:18 -0400
+
 web-devicons-nvim (2025.05.01-1) unstable; urgency=medium
 
   [ alcpereira ]
