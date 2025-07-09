@@ -1,3 +1,9 @@
+web-devicons-nvim (1:0.100-76-g19d6-1) unstable; urgency=medium
+
+  * Change versioning scheme.
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 09 Jul 2025 14:41:11 -0400
+
 web-devicons-nvim (2025.06.20-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
